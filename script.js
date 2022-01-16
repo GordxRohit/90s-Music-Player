@@ -17,7 +17,7 @@ let musicData = [
     id: 1,
     category: "Dance",
     name: "Ae_Mere_Humsafarr",
-    src: "Ae_Mere_Humsafar.mp3",
+    src: "songs/Ae_Mere_Humsafar.mp3",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoGWmS7kOCnkLAvH9g0_fZMdKW0d-l6P-H3yZaDokzVPZ4Y4bY&usqp=CAU",
   },
@@ -25,7 +25,7 @@ let musicData = [
     id: 2,
     category: "Love",
     name: "Are_Jane_Kaise_Kab_Kahan_Iqrar",
-    src: "Are_Jane_Kaise_Kab_Kahan_Iqrar.mp3",
+    src: "songs/Are_Jane_Kaise_Kab_Kahan_Iqrar.mp3",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQk-rT8uIudDAvN1p7qGBpyuLLF8DWwA_4ta7Oxtw5k6397rn2P&usqp=CAU",
   },
@@ -33,7 +33,7 @@ let musicData = [
     id: 3,
     category: "Sad",
     name: "Chura Liya Hai Tumne Jo Dil Ko",
-    src: "Chura_Liya_Hai_Tumne_Jo_Dil_Ko.mp3",
+    src: "songs/Chura_Liya_Hai_Tumne_Jo_Dil_Ko.mp3",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuZEhM4JWi0kLeHFQlnineERhaNlvCbjpwoHDTnemesNm5XtSh&usqp=CAU",
   },
