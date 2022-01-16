@@ -162,7 +162,7 @@ let musicData = [
     id: 19,
     category: "GORD X ROHIT",
     name: "Mere Naseeb Mein Naseeb",
-    src: "songs/Mere Naseeb Mein Naseeb",
+    src: "songs/Mere_Naseeb_Mein___Naseeb___Soundtrack_Version.mp3",
     image:
       "images/IMG_20220116_152507.jpg",
   },
