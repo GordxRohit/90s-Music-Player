@@ -58,6 +58,7 @@ button {
     outline: none;
     border: none;
     background: transparent;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .sec-1 {
@@ -135,6 +136,7 @@ body.dark .header button {
     border-bottom: 1px solid #dedede;
     cursor: pointer;
     color: var(--grey);
+    overflow: hidden;
 }
 
 .music.active {
@@ -146,11 +148,13 @@ body.dark .header button {
     width: 60px;
     border-radius: 4px;
     overflow: hidden;
+   
 }
 
 .list-content {
     flex: 1;
     padding: 0 15px;
+    overflow: hidden;
 }
 
 .list-btn {
